@@ -34,7 +34,7 @@ a{
     text-decoration: none;
 }
 
-#one{
+.one{
     background-image: url('/images/mobile/image-header.jpg'); 
     min-height: 35rem;
 }
